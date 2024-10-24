@@ -1,0 +1,21 @@
+{
+  "name": "rxjs-presentation",
+  "version": "1.0.0",
+  "description": "RxJS project for interactive presentation",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "jest": "^29.7.0",
+    "prettier": "^3.3.3",
+    "rxjs": "^7.8.1",
+    "ts-jest": "^29.2.5",
+    "typescript": "^5.6.3"
+  }
+}
